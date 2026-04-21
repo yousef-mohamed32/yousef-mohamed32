@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Yousef 👋</h1>
 
-<!--
-**yousef-mohamed32/yousef-mohamed32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>AI Engineer · DevOps Enthusiast · Must University</b><br/>
+  <i>Building intelligent systems and automating everything in between</i>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yousef-mohamed32&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm a 21-year-old AI Engineer passionate about the intersection of **Machine Learning** and **DevOps**. I love building smart systems — from training models to shipping them reliably in production.
+
+- 🎓 Computer Science student at **Must University**
+- 🤖 Focused on **AI/ML**, **NLP**, and **MLOps pipelines**
+- 🛠️ Learning **Docker**, **Kubernetes**, **CI/CD**, and cloud infrastructure
+- 🌱 Currently exploring **GitOps** and **Observability** tools
+- ⚡ Fun fact: I can bench press 120kg — strong in the gym and in the code editor
+
+---
+
+## 🧠 Tech Stack
+
+**AI & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+**DevOps & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 📌 Featured Projects
+
+### 🔁 [fawry-devops-demo](https://github.com/yousef-mohamed32/fawry-devops-demo)
+> A containerized Python web app with full CI/CD pipeline — Docker, GitHub Actions, and Prometheus monitoring.
+`Docker` `GitHub Actions` `Prometheus` `Python`
+
+### 🤖 [Coming Soon — ML Pipeline Project]
+> End-to-end ML pipeline with model training, versioning, and automated deployment.
+`MLflow` `Docker` `Python`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yousef-mohamed32&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousef-mohamed32&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p>
+  <a href="mailto:yousef@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yousef-mohamed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center"><i>"Automate the boring stuff. Train the rest."</i></p>
