@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Yousef 👋</h1>
 
 <p align="center">
-  <b>AI Engineer · DevOps Enthusiast · Must University</b><br/>
+  <b>AI Engineer· Must University</b><br/>
   <i>Building intelligent systems and automating everything in between</i>
 </p>
 
@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a 21-year-old AI Engineer passionate about the intersection of **Machine Learning** and **DevOps**. I love building smart systems — from training models to shipping them reliably in production.
+I'm a 22-year-old AI Engineer passionate about the intersection of **Machine Learning** and **DevOps**. I love building smart systems — from training models to shipping them reliably in production.
 
 - 🎓 Computer Science student at **Must University**
 - 🤖 Focused on **AI/ML**, **NLP**, and **MLOps pipelines**
@@ -33,12 +33,6 @@ I'm a 21-year-old AI Engineer passionate about the intersection of **Machine Lea
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-**DevOps & Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
@@ -66,8 +60,8 @@ I'm a 21-year-old AI Engineer passionate about the intersection of **Machine Lea
 ## 📫 Let's Connect
 
 <p>
-  <a href="mailto:yousef@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yousef-mohamed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:youseabdelwahed21@gmail..com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https:[//linkedin.com/in/yousef-mohamed](https://www.linkedin.com/in/yousef-mohamed-021371384/ar/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BRW5dd6HWRc6o6dp2brGcgg%3D%3D)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
