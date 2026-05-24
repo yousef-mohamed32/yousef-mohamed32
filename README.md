@@ -1,69 +1,127 @@
-<h1 align="center">Hey, I'm Yousef 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>AI Engineer· Must University</b><br/>
-  <i>Building intelligent systems and automating everything in between</i>
-</p>
+# Hi, I'm Yousef Mohamed 👋
+### AI & Machine Learning Engineer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousef-mohamed32&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+*Building intelligent systems that solve real-world problems*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-mohamed-021371384)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yousef-mohamed32)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousefabdelwahed21@gmail.com)
 
-## 🚀 About Me
-
-I'm a 22-year-old AI Engineer passionate about the intersection of **Machine Learning** and **DevOps**. I love building smart systems — from training models to shipping them reliably in production.
-
-- 🎓 Computer Science student at **Must University**
-- 🤖 Focused on **AI/ML**, **NLP**, and **MLOps pipelines**
-- 🛠️ Learning **Docker**, **Kubernetes**, **CI/CD**, and cloud infrastructure
-- 🌱 Currently exploring **GitOps** and **Observability** tools
-- ⚡ Fun fact: I can bench press 120kg — strong in the gym and in the code editor
+</div>
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 About Me
 
-**AI & Data**
+I'm a **Final Year Computer Science – AI student** at Misr University for Science and Technology (MUST) with a GPA of **3.6/4.0**, passionate about building production-grade AI systems that make a real difference.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=flat)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+Currently deepening my expertise in **Generative AI, LLMs, and Responsible AI** through the **Digital Egypt Pioneers Initiative (DEPI)** — a competitive national 6-month program.
 
+- 🎓 B.Sc. Computer Science – Artificial Intelligence @ MUST (2026)
+- 🤖 Specializing in: **NLP · Deep Learning · Generative AI · Computer Vision**
+- 🌍 Based in **Egypt**
+- 💬 Bilingual: **Arabic** (Native) · **English** (B2+)
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🔁 [fawry-devops-demo](https://github.com/yousef-mohamed32/fawry-devops-demo)
-> A containerized Python web app with full CI/CD pipeline — Docker, GitHub Actions, and Prometheus monitoring.
-`Docker` `GitHub Actions` `Prometheus` `Python`
+### 🧩 Mental Health Support Platform *(Graduation Project — 2026)*
+> AI-powered bilingual mental health chatbot integrated with a Therapist Web Dashboard
 
-### 🤖 [Coming Soon — ML Pipeline Project]
-> End-to-end ML pipeline with model training, versioning, and automated deployment.
-`MLflow` `Docker` `Python`
+**Tech:** `Python` `Hugging Face` `RAG` `FAISS` `NLP` `Flutter` `Web Dashboard`
+
+- Built a **bilingual chatbot (Arabic & English)** using Hugging Face models + RAG + FAISS for hallucination-free responses
+- **Emotion Detection & Mood Tracking** — analyzes patient speech and tracks mood patterns 24/7
+- **Emergency Crisis Detection** — auto-sends WhatsApp distress alert to emergency contact when crisis is detected
+- **Therapist Web Dashboard** — auto-generates patient summary report before each session
+
+---
+
+### 📈 Stock Price Prediction
+> Time-series forecasting on Apple's 5-year historical data
+
+**Tech:** `Python` `Scikit-learn` `ARIMA` `LSTM` `Pandas`
+
+- Fine-tuned ARIMA and LSTM models for improved forecast accuracy
+
+---
+
+### 🎬 Movie Review Sentiment Classifier
+> Deep learning NLP model achieving 84% accuracy on IMDB dataset
+
+**Tech:** `TensorFlow` `BiLSTM` `NLP` `Word Embeddings`
+
+- Leveraged bidirectional LSTM + word embeddings for contextual language understanding
+
+---
+
+### 🧬 Smart Resume-Job Matcher
+> AI-driven recruitment optimization using Genetic Algorithms
+
+**Tech:** `Python` `Genetic Algorithm` `NLP` `Scikit-learn`
+
+- Matches resumes to job descriptions using GA-based candidate selection + NLP feature extraction
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**ML & AI**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Data & Analytics**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousef-mohamed32&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousef-mohamed32&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
+<div align="center">
+
+![Yousef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yousef-mohamed32&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yousef-mohamed32&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 📫 Let's Connect
+## 🎓 Education & Training
 
-<p>
-  <a href="mailto:youseabdelwahed21@gmail..com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https:[//linkedin.com/in/yousef-mohamed](https://www.linkedin.com/in/yousef-mohamed-021371384/ar/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BRW5dd6HWRc6o6dp2brGcgg%3D%3D)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-</p>
+| Program | Institution | Period |
+|--------|-------------|--------|
+| B.Sc. Computer Science – AI | Misr University for Science and Technology (MUST) | 2022 – 2026 |
+| Generative AI Trainee | Digital Egypt Pioneers Initiative (DEPI) | June – Dec 2025 |
 
 ---
 
-<p align="center"><i>"Automate the boring stuff. Train the rest."</i></p>
+<div align="center">
+
+*"The goal is not to build AI — it's to build AI that matters."*
+
+⭐ **Feel free to explore my repos and drop a star if something catches your eye!**
+
+</div>
